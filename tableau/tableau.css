@@ -15,7 +15,7 @@ tr :hover{background-color:yellow;}
 
 body{
     background-color: rgb(81, 86, 102);
-    background: linear-gradient(0deg,rgba(2,0,36)0%,rgba(170,23,198,1)46%,rgba(115,0,255,1)100%);
+    background: linear-gradient(0deg,rgb(228, 232, 31)30%,rgb(240, 105, 240)46%);
     height: 100vh;
 }
 
